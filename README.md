@@ -1,3 +1,3 @@
 created with vue + tailwind
 
-v0.1 builded 24.06.25
+v0.1 was built 24.06.25
